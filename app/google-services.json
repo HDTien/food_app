@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732775293943",
+    "project_id": "btlddnc",
+    "storage_bucket": "btlddnc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732775293943:android:f96bf6e4fffd5221c3c4f2",
+        "android_client_info": {
+          "package_name": "com.example.btl_ddnc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_6Mfhsf0iSec-JdCaV9vriX_tyA65oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
